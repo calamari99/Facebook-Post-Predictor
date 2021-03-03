@@ -1,4 +1,4 @@
-# Facebook-Post-Predictor
+# Facebook Post Predictor
 
 ### Research Question: How can an author increase engagement from users on Facebook and can we predict the success of a post using insights from an author's page?
 
